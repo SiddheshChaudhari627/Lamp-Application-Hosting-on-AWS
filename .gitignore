@@ -1,0 +1,9 @@
+# AWS Keys
+*.pem
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Node/Python cache (optional)
+__pycache__/
